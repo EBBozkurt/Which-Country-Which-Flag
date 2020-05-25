@@ -1,0 +1,10 @@
+C:\Users\ekinb\OneDrive\Masaüstü\C#Proje\Proje1\Proje1\obj\Debug\App1.Form1.resources
+C:\Users\ekinb\OneDrive\Masaüstü\C#Proje\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\ekinb\OneDrive\Masaüstü\C#Proje\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\ekinb\OneDrive\Masaüstü\C#Proje\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\ekinb\OneDrive\Masaüstü\C#Proje\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\ekinb\OneDrive\Masaüstü\C#Proje\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\ekinb\OneDrive\Masaüstü\C#Proje\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\ekinb\OneDrive\Masaüstü\C#Proje\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\ekinb\OneDrive\Masaüstü\C#Proje\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\ekinb\OneDrive\Masaüstü\C#Proje\Proje1\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
